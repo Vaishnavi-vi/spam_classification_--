@@ -57,7 +57,7 @@ We use the **SMS Spam Collection Dataset** from the UCI repository.
 
 ## 📈 Evaluation Metric
 
-We used **AUC-ROC (Area Under the Curve – Receiver Operating Characteristic)** to evaluate model performance.
+I use **AUC-ROC (Area Under the Curve – Receiver Operating Characteristic)** to evaluate model performance.
 
 ---
 
